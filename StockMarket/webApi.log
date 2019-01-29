@@ -1,0 +1,80 @@
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539597.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539597.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: Jindal Stainless (Hisar) Ltd EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539397.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539397.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 617
+INFO      : Company info: ICICI Prudential Mutual Fund- Regular Plan Dividend Option EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/SPICBLOT.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/SPICBLOT.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 2466
+INFO      : Company info: BSE Liquid Rate Index
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/SPBSB2IP.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/SPBSB2IP.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 6589
+INFO      : Company info: BSE Bharat 22 Index
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/SPBSN5IP.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/SPBSN5IP.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 7514
+INFO      : Company info: BSE SENSEX Next 50
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/SPBSS5IP.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/SPBSS5IP.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 7143
+INFO      : Company info: BSE SENSEX 50
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539658.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539658.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: TeamLease Services Ltd EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539874.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539874.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: Ujjivan Financial Services Ltd EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539678.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539678.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: Quick Heal Technologies Ltd EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539450.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539450.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: S H Kelkar and Company Ltd EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539597.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539597.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: Jindal Stainless (Hisar) Ltd EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539397.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539397.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 617
+INFO      : Company info: ICICI Prudential Mutual Fund- Regular Plan Dividend Option EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/SPICBLOT.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/SPICBLOT.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 2466
+INFO      : Company info: BSE Liquid Rate Index
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/SPBSB2IP.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/SPBSB2IP.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 6589
+INFO      : Company info: BSE Bharat 22 Index
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/SPBSN5IP.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/SPBSN5IP.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 7514
+INFO      : Company info: BSE SENSEX Next 50
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/SPBSS5IP.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/SPBSS5IP.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 7143
+INFO      : Company info: BSE SENSEX 50
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539658.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539658.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: TeamLease Services Ltd EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539874.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539874.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: Ujjivan Financial Services Ltd EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539678.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539678.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: Quick Heal Technologies Ltd EOD Prices
+DEBUG     : complete url is: https://www.quandl.com/api/v3/datasets/BSE/BOM539450.json?api_key=uQssnxWZyynoy2jWLyXV
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539450.json?api_key=uQssnxWZyynoy2jWLyXV HTTP/1.1" 200 None
+INFO      : Company info: S H Kelkar and Company Ltd EOD Prices
